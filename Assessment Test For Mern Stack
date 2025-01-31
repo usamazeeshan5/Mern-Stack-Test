@@ -6,3 +6,4 @@ Solve only one of the below (5-6-7)
 5-Implement client-side routing in a React application.
 6-Implement lazy loading for images or components in a React application.
 7-Develop a client-side caching mechanism to improve performance for frequently accessed data in a React application.
+8-Develop Login and register with access token 
