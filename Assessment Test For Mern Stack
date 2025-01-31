@@ -1,0 +1,8 @@
+1-Create a list with data from an API. and add a sticky list header component and a list footer component which will show a loader while fetching the next page data. Also run a cleanup function of the async API call when leaving the component. Please make sure you have used react component structure.
+2-Create a user CRUD system with redux toolkit. Please make sure update function should update each single filed of the user object. Show a list of users with the delete icon.
+3- Implement conditional rendering based on a certain condition.
+4- Create a multi-step form with validation in React, where each step is a separate component.
+Solve only one of the below (5-6-7)
+5-Implement client-side routing in a React application.
+6-Implement lazy loading for images or components in a React application.
+7-Develop a client-side caching mechanism to improve performance for frequently accessed data in a React application.
